@@ -1,0 +1,27 @@
+Script started on Thu Dec 30 05:34:49 2021
+Restored session: Thu Dec 30 05:33:34 WAT 2021
+[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://Kayodes-MacBook-Pro.local/Users/onagssy/Documents/GitHub/part12-containers-applications/script-answers[0m[27m[24m[Jonagssy@Kayodes-MacBook-Pro script-answers % [K[?2004hddocker run -it ubuntu[?2004l
+]0;root@1d0db6724b02: /root@1d0db6724b02:/# [K]0;root@1d0db6724b02: /root@1d0db6724b02:/# mkdr ir usr && cd usr && makedi     kdir src && cd src && mkdir app
+mkdir: cannot create directory 'usr': File exists
+]0;root@1d0db6724b02: /root@1d0db6724b02:/# [Kls
+[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;36mlib64[0m  [01;34mmedia[0m   [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+]0;root@1d0db6724b02: /root@1d0db6724b02:/# cd usr
+]0;root@1d0db6724b02: /usrroot@1d0db6724b02:/usr# cd usr[4Plsmkdir usr && cd usr && mkdir src && cd src && mkdir app[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P mkdir src && cd src && mkdir app
+mkdir: cannot create directory 'src': File exists
+]0;root@1d0db6724b02: /usrroot@1d0db6724b02:/usr# [Kls
+[0m[01;34mbin[0m  [01;34mgames[0m  [01;34minclude[0m  [01;34mlib[0m  [01;34mlib32[0m  [01;34mlib64[0m  [01;34mlibx32[0m  [01;34mlocal[0m  [01;34msbin[0m  [01;34mshare[0m  [01;34msrc[0m
+]0;root@1d0db6724b02: /usrroot@1d0db6724b02:/usr# cd src
+]0;root@1d0db6724b02: /usr/srcroot@1d0db6724b02:/usr/src# ls
+]0;root@1d0db6724b02: /usr/srcroot@1d0db6724b02:/usr/src# mkdir app
+]0;root@1d0db6724b02: /usr/srcroot@1d0db6724b02:/usr/src# cd app/
+]0;root@1d0db6724b02: /usr/src/approot@1d0db6724b02:/usr/src/app# touch index.js
+]0;root@1d0db6724b02: /usr/src/approot@1d0db6724b02:/usr/src/app# exit
+exit
+[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://Kayodes-MacBook-Pro.local/Users/onagssy/Documents/GitHub/part12-containers-applications/script-answers[0m[27m[24m[Jonagssy@Kayodes-MacBook-Pro script-answers % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Dec 30 05:37:31 2021
